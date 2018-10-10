@@ -54,3 +54,6 @@ def using_insert(arr)
   arr.insert
 end
 
+def using_uniq(array)
+  array.uniq
+end
