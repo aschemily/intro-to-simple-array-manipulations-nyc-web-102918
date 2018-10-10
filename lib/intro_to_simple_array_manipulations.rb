@@ -69,3 +69,4 @@ end
 def using_delete(arr,int)
   arr.delete_at(2)
 end
+
