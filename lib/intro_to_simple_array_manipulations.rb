@@ -11,11 +11,12 @@ def using_pop(array)
 end
 
 def using_pop(array)
-  array.pop(-1)
+ newarr = array.pop(-1)
+ return newarr
 end
 
 def using_pop(array)
-  array.pop(-2,2)
+  array.pop(-1)
 end
 
 def using_pop(array)
