@@ -40,11 +40,11 @@ def shift_with_args(array)
 end
 
 def using_concat(arr1, arr2)
-  arr1 + arr2 
+  arr2 + arr1 
 end
 
 def using_concat(arr1)
-  arr1 + 1 
+  arr1.length + 1 
 end
 
 def using_insert(arr, newele)
