@@ -49,7 +49,7 @@ def using_concat(arr1)
 end
 
 def using_insert(arr, newele)
-  arr.insert(3)
+  arr.insert(4,newele)
 end
 
 def using_insert(arr)
