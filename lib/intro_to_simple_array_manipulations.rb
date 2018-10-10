@@ -26,3 +26,11 @@ def using_shift(array)
   array.shift
 end
 
+def using_shift(array)
+  array.shift(1)
+end
+
+def using_shift(array)
+  array.shift(2)
+end
+
