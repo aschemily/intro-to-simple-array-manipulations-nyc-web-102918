@@ -49,3 +49,5 @@ end
 def using_insert(arr, newele)
   arr.insert(3)
 end
+
+
