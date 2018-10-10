@@ -15,11 +15,12 @@ def using_pop(array)
 end
 
 def using_pop(array)
-  array.pop(2)
+  array.pop(-2,2)
 end
 
 def using_pop(array)
-  array.pop(2)
+  newarr = array.pop(-2,2)
+  return newarr
 end
 
 def using_shift(array)
