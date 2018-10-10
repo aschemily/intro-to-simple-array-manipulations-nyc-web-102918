@@ -7,12 +7,11 @@ def using_unshift(arr,str)
 end
 
 def using_pop(array)
-  array.pop
+  return array.pop
 end
 
 def using_pop(array)
- newarr = array.pop(-1)
- return newarr
+ array.pop(2)
 end
 
 def using_pop(array)
