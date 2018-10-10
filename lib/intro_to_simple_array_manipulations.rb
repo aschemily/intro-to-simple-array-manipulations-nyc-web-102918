@@ -50,4 +50,7 @@ def using_insert(arr, newele)
   arr.insert(3,newele)
 end
 
+def using_insert(arr)
+  arr.insert
+end
 
