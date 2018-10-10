@@ -45,3 +45,7 @@ end
 def using_concat(arr1)
   arr1 + 1 
 end
+
+def using_insert(arr, newele)
+  arr.insert(3)
+end
